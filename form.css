@@ -66,6 +66,14 @@ label {
   
   
 }
+.tech {
+  display: flex;
+  gap: 30px;
+
+}
+.den {
+  width: 50%;
+}
 
 .button {
   text-align: center;
