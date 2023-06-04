@@ -1,0 +1,66 @@
+.form {
+    width: 50%;
+    margin: auto;
+    background-color: whitesmoke;
+    padding: 2%;
+
+}
+label {
+    width: 45%;
+    display: inline-block;
+    margin: auto;
+    font-family: halant;
+    font-weight: bold;
+}
+input {
+    padding: 1%;
+    width: 30%;
+    font-size: 10px;
+
+}
+button {
+  text-align: center;
+  background-color: #155eef;
+  border: none;
+  color: #ffffff;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  width: 33.4%;
+  height: 40px;
+  left: 454px;
+  padding: 1%;
+  
+}
+
+.gen {
+    width: 44%;
+    display: inline-block;
+    border: 2px ;
+}
+.rad {
+    width: 1.8%;
+    display: inline-block;
+    border: 2px;
+}
+.box {
+    width: 100%;
+    gap: 3px;
+    display: block;
+    padding-right: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 4px 2px;
+  
+  
+  
+}
+.coll {
+    padding: 1%;
+    width: 33%;
+    font-size: 10px;
+}
+
+
